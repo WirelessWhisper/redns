@@ -34,9 +34,33 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
 * Proxy
 * Peer
 
-## Troubleshoot
+## Screens
+Three simple screens for an admin to help keep data safe.
 
-### Forencis
+### Hack
+* Update, Software
+* Scan, File
+* Encrypt, Folder
+* Rule, Computer
+* Map, Network
+* Contact, Lab
+
+### Spy
+* Freeze, Worm
+* Overclock, Trojan
+* Capture, Virus
+* Lift, 
+* Hide, 
+
+### Monitor
+* Lab,
+* Computer, Speed
+* Software,
+* File, Space
+* Folder, 
+* Network, Devices
+
+
 * http://gametipcenter.com/deus-ex-human-revolution-how-to-hack-complete-hacking-guide
 * https://segmentnext.com/2016/08/23/deus-ex-mankind-divided-hacking-guide/
 * https://www.player.one/deus-ex-mankind-divided-hacking-guide-tips-script-kiddies-552046
