@@ -51,3 +51,20 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
 ## Screens
 One simple screen to have a safe network.
 
+### Owner
+* VM or VPS
+
+### Provider
+* ISP
+
+### Guest
+* Proxy or VPN
+
+### Driver
+* DNS
+
+### Guard
+* DNS
+
+### Host
+* DNS
