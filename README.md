@@ -1,6 +1,12 @@
 # Redns
 Simple application to secure data on a device and across a network with applications and services that are already provided by the operating system where it is usually opt-in.
 
+# Notice
+The general population will use antivirus to keep data safe. 
+Where those who are using technology as a career may not. 
+Something like CA Technologies will cover all that is needed for anyone. 
+What is covered is Scanner, Encryption, VPN, Firewall, DNS.
+
 ## Screens
 Four simple screens for engineer using controls from RethinkDNS to cover ever item on four list.
 
