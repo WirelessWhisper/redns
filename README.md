@@ -2,7 +2,7 @@
 Simple application to secure data on a device and across a network with applications and services that are already provided by the operating system where it is usually opt-in.
 
 ## Screens
-Four simple screens using controls from RethinkDNS to cover ever item on four list. Then a simple exact interface to see users on a network in realtime.
+Four simple screens for engineer using controls from RethinkDNS to cover ever item on four list.
 
 ### Legal 
 * Templates
@@ -28,6 +28,8 @@ Four simple screens using controls from RethinkDNS to cover ever item on four li
 * Proxy
 * Peer
 
+## Troubleshoot
+
 ### Forencis
 * http://gametipcenter.com/deus-ex-human-revolution-how-to-hack-complete-hacking-guide
 * https://segmentnext.com/2016/08/23/deus-ex-mankind-divided-hacking-guide/
@@ -45,3 +47,7 @@ Four simple screens using controls from RethinkDNS to cover ever item on four li
 * https://www.youtube.com/watch?v=Q7kxFgUxT8U
 * https://www.youtube.com/watch?v=5x4KEvwqigA
 * https://www.youtube.com/watch?v=OTYExa9hNAU
+
+## Screens
+One simple screen to have a safe network.
+
