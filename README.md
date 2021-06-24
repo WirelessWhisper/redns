@@ -59,8 +59,6 @@ Three simple screens for an admin to help keep data safe.
 * File, Space
 * Folder, 
 * Network, Devices
-
-
 * http://gametipcenter.com/deus-ex-human-revolution-how-to-hack-complete-hacking-guide
 * https://segmentnext.com/2016/08/23/deus-ex-mankind-divided-hacking-guide/
 * https://www.player.one/deus-ex-mankind-divided-hacking-guide-tips-script-kiddies-552046
