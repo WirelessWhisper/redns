@@ -23,6 +23,11 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
 
 ### Legal 
 * Templates
+  * Technology Assignment [TS.pdf](https://github.com/abakasam/redns/files/6720187/TS.pdf)
+  * Work for Hire [WH.pdf](https://github.com/abakasam/redns/files/6720189/WH.pdf)
+  * License [L.pdf](https://github.com/abakasam/redns/files/6720190/L.pdf)
+  * Privacy Policy [PP.pdf](https://github.com/abakasam/redns/files/6720191/PP.pdf)
+  * Nondisclosure [ND.pdf](https://github.com/abakasam/redns/files/6720192/ND.pdf)
 * Internet Service Provider
 * Country From (Language)
 * Country To (Domain Name Service)
