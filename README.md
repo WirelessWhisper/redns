@@ -1,5 +1,16 @@
 # Redns
-Simple application to secure data on a device and across a network with applications and services that are already provided by the operating system where it is usually opt-in.
+Simple application to secure data on a device and across a network with applications and services that are already provided by the operating system where it is usually opt-in. I only pratice protection:
+
+## Level of Protection
+- protection, know how to dress
+- pay to keep to your safe
+- too powerful to keep private
+- at work with or without the law
+
+## Profile
+- do not be rude or indescent
+- keep network under ownership safe
+- engineer, work with your country
 
 # Notice
 The general population will use antivirus to keep data safe. 
