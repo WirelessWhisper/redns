@@ -37,15 +37,15 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
 * Packet, DNSCrypt
 * File, Windows
 * Filesystem, EncFS
-* Disk, ?
+* Disk, 
 
 ### Firewall
 * Software, RethinkDNS
-* Network, ?
-* Cloud, ?
+* Network, 
+* Cloud, 
 
 ### Network
-* Shell, ?
+* Shell, 
 * Virtual Private, Kamatera
 * Proxy, Webshare
 * Peer, uTorrent (with Freenode and Media Server)
