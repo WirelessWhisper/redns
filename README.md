@@ -29,26 +29,26 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
   * Privacy Policy [PP.pdf](https://github.com/abakasam/redns/files/6720191/PP.pdf)
   * Nondisclosure [ND.pdf](https://github.com/abakasam/redns/files/6720192/ND.pdf)
 * Internet Service Provider
-* Country From (Language)
-* Country To (Domain Name Service)
-* Guard (Threat Intelligence)
+* Country From (Language), Windscribe
+* Country To (Domain Name Service), public-dns.info
+* Guard (Threat Intelligence), OpenDNS
 
 ### Encrypt
-* Packet
-* File
-* Filesystem
-* Disk
+* Packet, DNSCrypt
+* File, Windows
+* Filesystem, EncFS
+* Disk, ?
 
 ### Firewall
-* Software
-* Network
-* Cloud
+* Software, RethinkDNS
+* Network, ?
+* Cloud, ?
 
 ### Network
-* Shell
-* Virtual Private
-* Proxy
-* Peer
+* Shell, ?
+* Virtual Private, Kamatera
+* Proxy, Webshare
+* Peer, uTorrent (with Freenode and Media Server)
 
 ## Screens
 Three simple screens for an admin to help keep data safe.
@@ -96,19 +96,19 @@ Three simple screens for an admin to help keep data safe.
 One simple screen to have a safe network.
 
 ### Owner
-* VM or VPS
+* VM, VMWare or VPS, Kamatera
 
 ### Provider
 * ISP
 
 ### Guest
-* Proxy or VPN
+* Proxy, Webshare or VPN, Windscribe
 
 ### Driver
-* DNS
+* DNS, OpenDNS
 
 ### Guard
-* DNS
+* DNS, OpenDNS
 
 ### Host
-* DNS
+* DNS, OpenDNS
