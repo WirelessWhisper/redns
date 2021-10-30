@@ -37,12 +37,12 @@ Four simple screens for engineer using controls from RethinkDNS to cover ever it
 * Packet, DNSCrypt
 * File, Windows
 * Filesystem, EncFS
-* Disk, 
+* Disk, HTTPSEverywhere
 
 ### Firewall
 * Software, RethinkDNS
-* Network, 
-* Cloud, 
+* Network, Trip...wire
+* Cloud, OpenDNS
 
 ### Network
 * Shell, 
@@ -99,7 +99,7 @@ One simple screen to have a safe network.
 * VM, VMWare or VPS, Kamatera
 
 ### Provider
-* ISP
+* ISP, RethinkDNS
 
 ### Guest
 * Proxy, Webshare or VPN, Windscribe
